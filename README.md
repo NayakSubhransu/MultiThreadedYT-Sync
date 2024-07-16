@@ -95,10 +95,4 @@ Mail - `subhransu.nayak.connect@gmail.com`
 
 
 ------------
-
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/MultiThreaded-Tube](https://github.com/yourusername/MultiThreaded-Tube)
+/yourusername/MultiThreaded-Tube](https://github.com/yourusername/MultiThreaded-Tube)

@@ -1,14 +1,14 @@
 
 
 
-# MultiThreaded Tube: Advanced YouTube Playlist Downloader
+# MultiThreadedYT-Sync: Advanced YouTube Playlist Downloader
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview
 
-MultiThreaded Tube is a high-performance, concurrent YouTube playlist downloader leveraging Python's multithreading capabilities. This application is designed to significantly accelerate the process of acquiring large video collections while providing a rich, interactive console interface.
+`MultiThreadedYT-Sync` is a high-performance, concurrent YouTube playlist downloader leveraging Python's multithreading capabilities. This application is designed to significantly accelerate the process of acquiring large video collections while providing a rich, interactive console interface.
 
 ## Features
 

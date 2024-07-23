@@ -1,12 +1,15 @@
 
 
 <h1 align="center">MultiThreadedYT-Sync</h1>
-<p align="center">
+<h3 align="center">
   <b>Advanced YouTube Playlist Downloader implementing Multithreading</b>
-</p>
+</h3>
 
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+<h3 align="center">
+  ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+</h3>
+
 
 ## Overview:
 

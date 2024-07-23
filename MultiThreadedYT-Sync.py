@@ -33,7 +33,6 @@ progress_lock = Lock()
 logging.basicConfig(filename='YT_downloader.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-# ... (keeping the existing functions: print_banner, check_internet_connection, is_valid_youtube_playlist_url, sanitize_filename)
 
 def print_banner(yt_size="small", pd_size="small"):
     layout = Layout()
@@ -186,7 +185,6 @@ def download_playlist(playlist_url, output_path, quality='highest', format='mp4'
         console.print("[yellow]Please check the URL and your internet connection, then try again.[/yellow]")
         logging.error(f"Error accessing playlist: {str(e)}")
 
-# ... (keeping the existing functions: get_output_path, display_summary)
 
 
 def get_output_path():

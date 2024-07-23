@@ -1,13 +1,9 @@
 
 
-
-# MultiThreadedYT-Sync
-## Advanced YouTube Playlist Downloader implementing Multithreading 
-
-<div style="text-align: center;">
-    <h1>MultiThreadedYT-Sync</h1>
-    <h2>Advanced YouTube Playlist Downloader implementing Multithreading</h2>
-</div>
+<h1 align="center">MultiThreadedYT-Sync</h1>
+<p align="center">
+  <b>Advanced YouTube Playlist Downloader implementing Multithreading</b>
+</p>
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

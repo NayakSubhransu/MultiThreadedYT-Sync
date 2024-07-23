@@ -1,0 +1,7 @@
+pytube
+colorama
+pyfiglet
+rich
+art
+aiohttp
+requests

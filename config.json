@@ -1,0 +1,9 @@
+{
+    "output_directory": "downloads",
+    "default_format": "mp4",
+    "default_quality": "highest",
+    "download_subtitles": false,
+    "max_workers": 3,
+    "retry_attempts": 3,
+    "log_file": "YT_downloader.log"
+}

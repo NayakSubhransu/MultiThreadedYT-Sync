@@ -1,0 +1,186 @@
+2024-06-25 00:48:42,694 - ERROR - Error downloading video 9 (Attempt 1/3): 'start'
+2024-06-25 00:48:43,516 - ERROR - Error downloading video 10 (Attempt 1/3): 'start'
+2024-06-25 00:48:52,527 - ERROR - Error downloading video 9 (Attempt 2/3): 'start'
+2024-06-25 00:48:53,151 - INFO - Successfully downloaded: 006_Floyd's cycle detection algorithm (Tortoise and hare) - Inside code.mp4
+2024-06-25 00:48:54,804 - ERROR - Error downloading video 10 (Attempt 2/3): 'start'
+2024-06-25 00:49:00,739 - INFO - Successfully downloaded: 004_Strassen algorithm for matrix multiplication (divide and conquer) - Inside code.mp4
+2024-06-25 00:49:01,084 - ERROR - Error downloading video 8 (Attempt 1/3): 'start'
+2024-06-25 00:49:04,715 - ERROR - Error downloading video 10 (Attempt 3/3): 'start'
+2024-06-25 00:49:05,182 - INFO - Successfully downloaded: 003_Quicksort sorting algorithm - Inside code.mp4
+2024-06-25 00:49:05,365 - ERROR - Error downloading video 9 (Attempt 3/3): 'start'
+2024-06-25 00:49:06,622 - ERROR - Error downloading video 2 (Attempt 1/3): 'start'
+2024-06-25 00:49:08,741 - ERROR - Error downloading video 7 (Attempt 1/3): 'start'
+2024-06-25 00:49:12,949 - ERROR - Error downloading video 8 (Attempt 2/3): 'start'
+2024-06-25 00:49:13,030 - ERROR - Error downloading video 1 (Attempt 1/3): 'start'
+2024-06-25 00:49:13,093 - ERROR - Error downloading video 12 (Attempt 1/3): 'start'
+2024-06-25 00:49:13,345 - ERROR - Error downloading video 5 (Attempt 1/3): 'start'
+2024-06-25 00:49:15,978 - ERROR - Error downloading video 2 (Attempt 2/3): 'start'
+2024-06-25 00:49:17,447 - ERROR - Error downloading video 11 (Attempt 1/3): 'start'
+2024-06-25 00:49:17,595 - ERROR - Error downloading video 7 (Attempt 2/3): 'start'
+2024-06-25 00:49:20,457 - ERROR - Error downloading video 14 (Attempt 1/3): 'start'
+2024-06-25 00:49:22,661 - ERROR - Error downloading video 8 (Attempt 3/3): 'start'
+2024-06-25 00:49:23,959 - ERROR - Error downloading video 12 (Attempt 2/3): 'start'
+2024-06-25 00:49:24,168 - ERROR - Error downloading video 5 (Attempt 2/3): 'start'
+2024-06-25 00:49:25,198 - ERROR - Error downloading video 2 (Attempt 3/3): 'start'
+2024-06-25 00:49:27,817 - ERROR - Error downloading video 11 (Attempt 2/3): 'start'
+2024-06-25 00:49:28,126 - ERROR - Error downloading video 13 (Attempt 1/3): 'start'
+2024-06-25 00:49:28,135 - ERROR - Error downloading video 7 (Attempt 3/3): 'start'
+2024-06-25 00:49:28,453 - ERROR - Error downloading video 1 (Attempt 2/3): 'start'
+2024-06-25 00:49:29,947 - ERROR - Error downloading video 15 (Attempt 1/3): 'start'
+2024-06-25 00:49:32,204 - ERROR - Error downloading video 14 (Attempt 2/3): 'start'
+2024-06-25 00:49:34,520 - ERROR - Error downloading video 5 (Attempt 3/3): 'start'
+2024-06-25 00:49:34,937 - ERROR - Error downloading video 12 (Attempt 3/3): 'start'
+2024-06-25 00:49:36,965 - ERROR - Error downloading video 11 (Attempt 3/3): 'start'
+2024-06-25 00:49:39,238 - ERROR - Error downloading video 1 (Attempt 3/3): 'start'
+2024-06-25 00:49:41,559 - ERROR - Error downloading video 13 (Attempt 2/3): 'start'
+2024-06-25 00:49:41,907 - ERROR - Error downloading video 16 (Attempt 1/3): 'start'
+2024-06-25 00:49:42,242 - ERROR - Error downloading video 15 (Attempt 2/3): 'start'
+2024-06-25 00:49:46,735 - ERROR - Error downloading video 14 (Attempt 3/3): 'start'
+2024-06-25 00:49:46,817 - ERROR - Error downloading video 18 (Attempt 1/3): 'start'
+2024-06-25 00:49:50,947 - ERROR - Error downloading video 17 (Attempt 1/3): 'start'
+2024-06-25 00:49:51,139 - ERROR - Error downloading video 19 (Attempt 1/3): 'start'
+2024-06-25 00:49:53,808 - ERROR - Error downloading video 13 (Attempt 3/3): 'start'
+2024-06-25 00:49:54,747 - ERROR - Error downloading video 15 (Attempt 3/3): 'start'
+2024-06-25 00:49:57,164 - ERROR - Error downloading video 16 (Attempt 2/3): 'start'
+2024-06-25 00:49:57,189 - INFO - Successfully downloaded: 022_Sieve of Eratosthenes The way to find primes up to n in O(nloglogn) time.mp4
+2024-06-25 00:49:58,168 - ERROR - Error downloading video 18 (Attempt 2/3): 'start'
+2024-06-25 00:50:00,467 - ERROR - Error downloading video 21 (Attempt 1/3): 'start'
+2024-06-25 00:50:01,060 - ERROR - Error downloading video 17 (Attempt 2/3): 'start'
+2024-06-25 00:50:01,834 - ERROR - Error downloading video 23 (Attempt 1/3): 'start'
+2024-06-25 00:50:01,984 - ERROR - Error downloading video 19 (Attempt 2/3): 'start'
+2024-06-25 00:50:06,106 - ERROR - Error downloading video 24 (Attempt 1/3): 'start'
+2024-06-25 00:50:08,916 - ERROR - Error downloading video 18 (Attempt 3/3): 'start'
+2024-06-25 00:50:10,372 - ERROR - Error downloading video 25 (Attempt 1/3): 'start'
+2024-06-25 00:50:11,117 - ERROR - Error downloading video 21 (Attempt 2/3): 'start'
+2024-06-25 00:50:12,525 - ERROR - Error downloading video 17 (Attempt 3/3): 'start'
+2024-06-25 00:50:12,587 - ERROR - Error downloading video 19 (Attempt 3/3): 'start'
+2024-06-25 00:50:12,607 - ERROR - Error downloading video 20 (Attempt 1/3): 'start'
+2024-06-25 00:50:12,716 - ERROR - Error downloading video 23 (Attempt 2/3): 'start'
+2024-06-25 00:50:14,845 - ERROR - Error downloading video 16 (Attempt 3/3): 'start'
+2024-06-25 00:50:17,907 - ERROR - Error downloading video 24 (Attempt 2/3): 'start'
+2024-06-25 00:50:23,440 - ERROR - Error downloading video 25 (Attempt 2/3): 'start'
+2024-06-25 00:50:23,765 - ERROR - Error downloading video 21 (Attempt 3/3): 'start'
+2024-06-25 00:50:27,001 - ERROR - Error downloading video 27 (Attempt 1/3): 'start'
+2024-06-25 00:50:30,178 - ERROR - Error downloading video 24 (Attempt 3/3): 'start'
+2024-06-25 00:50:30,419 - ERROR - Error downloading video 28 (Attempt 1/3): 'start'
+2024-06-25 00:50:30,427 - ERROR - Error downloading video 23 (Attempt 3/3): 'start'
+2024-06-25 00:50:30,859 - ERROR - Error downloading video 20 (Attempt 2/3): 'start'
+2024-06-25 00:50:32,739 - INFO - Successfully downloaded: 030_Checking if a point is inside a polygon is RIDICULOUSLY simple (Ray casting algorithm) - Inside code.mp4
+2024-06-25 00:50:33,079 - ERROR - Error downloading video 25 (Attempt 3/3): 'start'
+2024-06-25 00:50:39,797 - ERROR - Error downloading video 31 (Attempt 1/3): 'start'
+2024-06-25 00:50:40,678 - ERROR - Error downloading video 28 (Attempt 2/3): 'start'
+2024-06-25 00:50:41,295 - ERROR - Error downloading video 29 (Attempt 1/3): 'start'
+2024-06-25 00:50:44,255 - ERROR - Error downloading video 26 (Attempt 1/3): 'start'
+2024-06-25 00:50:47,845 - ERROR - Error downloading video 31 (Attempt 2/3): 'start'
+2024-06-25 00:50:49,278 - ERROR - Error downloading video 28 (Attempt 3/3): 'start'
+2024-06-25 00:50:49,981 - ERROR - Error downloading video 29 (Attempt 2/3): 'start'
+2024-06-25 00:50:52,526 - ERROR - Error downloading video 26 (Attempt 2/3): 'start'
+2024-06-25 00:50:56,942 - ERROR - Error downloading video 31 (Attempt 3/3): 'start'
+2024-06-25 00:50:59,010 - ERROR - Error downloading video 29 (Attempt 3/3): 'start'
+2024-06-25 00:51:00,980 - ERROR - Error downloading video 26 (Attempt 3/3): 'start'
+2024-06-25 01:04:03,197 - INFO - Successfully downloaded: 002_How to understand (almost) any algorithm - Inside code.mp4
+2024-06-25 01:04:07,387 - INFO - Successfully downloaded: 003_Quicksort sorting algorithm - Inside code.mp4
+2024-06-25 01:04:14,089 - INFO - Successfully downloaded: 004_Strassen algorithm for matrix multiplication (divide and conquer) - Inside code.mp4
+2024-06-25 01:04:15,681 - INFO - Successfully downloaded: 001_Knuth-Morris-Pratt algorithm (KMP) - Inside code.mp4
+2024-06-25 01:04:17,750 - INFO - Successfully downloaded: 005_Run-length encoding (lossless data compression) - Inside code.mp4
+2024-06-25 01:04:23,291 - INFO - Successfully downloaded: 006_Floyd's cycle detection algorithm (Tortoise and hare) - Inside code.mp4
+2024-06-25 01:04:27,447 - INFO - Successfully downloaded: 007_How to find the closest pair of points in O(nlogn) - Inside code.mp4
+2024-06-25 01:04:27,899 - INFO - Successfully downloaded: 008_How can we multiply large integers quickly (Karatsuba algorithm) - Inside code.mp4
+2024-06-25 01:08:16,838 - ERROR - Error downloading video 1 (Attempt 1/3): 'start'
+2024-06-25 01:08:19,884 - ERROR - Error downloading video 5 (Attempt 1/3): 'start'
+2024-06-25 01:08:19,890 - INFO - Successfully downloaded: 003_Quicksort sorting algorithm - Inside code.mp4
+2024-06-25 01:08:20,325 - ERROR - Error downloading video 9 (Attempt 1/3): 'start'
+2024-06-25 01:08:20,342 - INFO - Successfully downloaded: 004_Strassen algorithm for matrix multiplication (divide and conquer) - Inside code.mp4
+2024-06-25 01:08:20,947 - ERROR - Error downloading video 8 (Attempt 1/3): 'start'
+2024-06-25 01:08:21,223 - ERROR - Error downloading video 7 (Attempt 1/3): 'start'
+2024-06-25 01:08:24,639 - ERROR - Error downloading video 2 (Attempt 1/3): 'start'
+2024-06-25 01:08:25,699 - INFO - Successfully downloaded: 006_Floyd's cycle detection algorithm (Tortoise and hare) - Inside code.mp4
+2024-06-25 01:08:26,824 - ERROR - Error downloading video 10 (Attempt 1/3): 'start'
+2024-06-25 01:08:27,577 - ERROR - Error downloading video 1 (Attempt 2/3): 'start'
+2024-06-25 01:08:28,520 - ERROR - Error downloading video 12 (Attempt 1/3): 'start'
+2024-06-25 01:08:32,044 - ERROR - Error downloading video 9 (Attempt 2/3): 'start'
+2024-06-25 01:08:32,060 - ERROR - Error downloading video 5 (Attempt 2/3): 'start'
+2024-06-25 01:08:32,385 - ERROR - Error downloading video 7 (Attempt 2/3): 'start'
+2024-06-25 01:08:32,385 - ERROR - Error downloading video 11 (Attempt 1/3): 'start'
+2024-06-25 01:08:32,508 - ERROR - Error downloading video 8 (Attempt 2/3): 'start'
+2024-06-25 01:08:34,347 - ERROR - Error downloading video 2 (Attempt 2/3): 'start'
+2024-06-25 01:08:35,513 - ERROR - Error downloading video 10 (Attempt 2/3): 'start'
+2024-06-25 01:08:36,463 - ERROR - Error downloading video 1 (Attempt 3/3): 'start'
+2024-06-25 01:08:37,104 - ERROR - Error downloading video 13 (Attempt 1/3): 'start'
+2024-06-25 01:08:37,989 - ERROR - Error downloading video 12 (Attempt 2/3): 'start'
+2024-06-25 01:08:41,914 - ERROR - Error downloading video 5 (Attempt 3/3): 'start'
+2024-06-25 01:08:42,938 - ERROR - Error downloading video 11 (Attempt 2/3): 'start'
+2024-06-25 01:08:42,941 - ERROR - Error downloading video 9 (Attempt 3/3): 'start'
+2024-06-25 01:08:43,312 - ERROR - Error downloading video 7 (Attempt 3/3): 'start'
+2024-06-25 01:08:43,546 - ERROR - Error downloading video 8 (Attempt 3/3): 'start'
+2024-06-25 01:08:45,944 - ERROR - Error downloading video 2 (Attempt 3/3): 'start'
+2024-06-25 01:08:45,948 - ERROR - Error downloading video 14 (Attempt 1/3): 'start'
+2024-06-25 01:08:45,956 - ERROR - Error downloading video 10 (Attempt 3/3): 'start'
+2024-06-25 01:08:46,966 - ERROR - Error downloading video 13 (Attempt 2/3): 'start'
+2024-06-25 01:08:48,800 - ERROR - Error downloading video 12 (Attempt 3/3): 'start'
+2024-06-25 01:26:59,679 - INFO - Successfully downloaded: 007_Next.js Tutorial #7 - Custom 404 Page.mp4
+2024-06-25 01:27:03,970 - INFO - Successfully downloaded: 005_Next.js Tutorial #5 - Creating a Layout Component.mp4
+2024-06-25 01:27:08,910 - INFO - Successfully downloaded: 001_Next.js Tutorial #1 - Introduction & Setup.mp4
+2024-06-25 01:27:13,910 - INFO - Successfully downloaded: 008_Next.js Tutorial #8 - Redirecting Users.mp4
+2024-06-25 01:27:13,990 - INFO - Successfully downloaded: 009_Next.js Tutorial #9 - Images & Metadata.mp4
+2024-06-25 01:27:14,899 - INFO - Successfully downloaded: 004_Next.js Tutorial #4 - Linking Between Pages.mp4
+2024-06-25 01:27:17,579 - INFO - Successfully downloaded: 002_Next.js Tutorial #2 - Pages & Routes.mp4
+2024-06-25 01:27:23,260 - INFO - Successfully downloaded: 006_Next.js Tutorial #6 - Adding Styles.mp4
+2024-06-25 01:27:26,280 - INFO - Successfully downloaded: 011_Next.js Tutorial #11 - Dynamic Routes (part 1).mp4
+2024-06-25 01:27:32,090 - INFO - Successfully downloaded: 012_Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths).mp4
+2024-06-25 01:27:33,459 - INFO - Successfully downloaded: 013_Next.js Tutorial #13 - Fetching a Single Item.mp4
+2024-06-25 01:27:34,880 - INFO - Successfully downloaded: 010_Next.js Tutorial #10 - Fetching Data (getStaticProps).mp4
+2024-06-25 01:27:34,889 - INFO - Successfully downloaded: 014_Next.js Tutorial #14 - Deploying to Vercel.mp4
+2024-06-25 01:27:54,717 - INFO - Successfully downloaded: 003_Next.js Tutorial #3 - Adding Other Components.mp4
+2024-07-16 14:27:07,982 - ERROR - Error downloading video 3 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:08,376 - ERROR - Error downloading video 5 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:13,757 - ERROR - Error downloading video 1 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:14,191 - ERROR - Error downloading video 6 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:15,889 - ERROR - Error downloading video 4 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:17,192 - ERROR - Error downloading video 3 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:20,157 - ERROR - Error downloading video 2 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:22,375 - ERROR - Error downloading video 5 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:22,821 - ERROR - Error downloading video 1 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:23,570 - ERROR - Error downloading video 6 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:26,750 - ERROR - Error downloading video 4 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:30,064 - ERROR - Error downloading video 2 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:30,129 - ERROR - Error downloading video 3 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:34,244 - ERROR - Error downloading video 5 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:35,468 - ERROR - Error downloading video 4 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-16 14:27:37,424 - ERROR - Error downloading video 1 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:39,293 - ERROR - Error downloading video 6 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 14:27:39,329 - ERROR - Error downloading video 2 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:27,073 - ERROR - Error downloading video 3 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:32,008 - ERROR - Error downloading video 1 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:32,863 - ERROR - Error downloading video 2 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:34,772 - ERROR - Error downloading video 3 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:40,469 - ERROR - Error downloading video 2 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:42,288 - ERROR - Error downloading video 1 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:45,421 - ERROR - Error downloading video 3 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:47,941 - ERROR - Error downloading video 2 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:50,486 - ERROR - Error downloading video 4 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:50,662 - ERROR - Error downloading video 1 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-16 17:39:53,949 - ERROR - Error downloading video 5 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:39:54,082 - ERROR - Error downloading video 6 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-16 17:40:00,581 - ERROR - Error downloading video 4 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:40:01,910 - ERROR - Error downloading video 6 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-16 17:40:10,351 - ERROR - Error downloading video 4 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-16 17:40:13,975 - ERROR - Error downloading video 6 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:06:54,830 - ERROR - Error downloading video 3 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-17 03:06:54,948 - ERROR - Error downloading video 2 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-17 03:06:54,999 - ERROR - Error downloading video 1 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:01,943 - ERROR - Error downloading video 3 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:03,052 - ERROR - Error downloading video 1 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:06,031 - ERROR - Error downloading video 2 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:07:08,778 - ERROR - Error downloading video 3 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:09,800 - ERROR - Error downloading video 1 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:11,527 - ERROR - Error downloading video 5 (Attempt 1/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:13,728 - ERROR - Error downloading video 2 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:14,322 - ERROR - Error downloading video 4 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:07:18,369 - ERROR - Error downloading video 6 (Attempt 1/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:07:19,171 - ERROR - Error downloading video 5 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:21,053 - ERROR - Error downloading video 4 (Attempt 2/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:27,071 - ERROR - Error downloading video 5 (Attempt 3/3): HTTP Error 400: Bad Request
+2024-07-17 03:07:27,910 - ERROR - Error downloading video 6 (Attempt 2/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:07:32,207 - ERROR - Error downloading video 4 (Attempt 3/3): get_throttling_function_name: could not find match for multiple
+2024-07-17 03:07:34,729 - ERROR - Error downloading video 6 (Attempt 3/3): HTTP Error 400: Bad Request

@@ -10,6 +10,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/python-v3.7+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+</p>
+
 
 ## Overview:
 

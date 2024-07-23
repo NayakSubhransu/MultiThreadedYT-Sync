@@ -5,10 +5,10 @@
   <b>Advanced YouTube Playlist Downloader implementing Multithreading</b>
 </h3>
 
-<h3 align="center">
+<p align="center">
   ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-</h3>
+</p>
 
 
 ## Overview:

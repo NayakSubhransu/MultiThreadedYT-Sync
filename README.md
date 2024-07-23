@@ -1,14 +1,20 @@
 
 
 
-# MultiThreadedYT-Sync: Advanced YouTube Playlist Downloader
+# MultiThreadedYT-Sync
+## Advanced YouTube Playlist Downloader implementing Multithreading 
+
+<div style="text-align: center;">
+    <h1>MultiThreadedYT-Sync</h1>
+    <h2>Advanced YouTube Playlist Downloader implementing Multithreading</h2>
+</div>
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview:
 
-`MultiThreadedYT-Sync` is a high-performance, concurrent YouTube playlist downloader leveraging Python's multithreading capabilities. This application is designed to significantly accelerate the process of acquiring large video collections while providing a rich, interactive console interface.
+`MultiThreadedYT-Sync` is a powerful Command-Line Interface (CLI) application for downloading YouTube playlists with unprecedented speed and efficiency. Leveraging Python's multithreading capabilities, this tool revolutionizes the process of acquiring large video collections.This application is designed to significantly accelerate the process of acquiring large video collections while providing a rich, interactive console interface.
 
 ## Key Features:
 

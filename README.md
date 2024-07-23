@@ -118,7 +118,7 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 Mail - `subhransu.nayak.connect@gmail.com`
 
-`Project Link` : [https://github.com/NayakSubhransu/MultiThreadedYT-Sync](https://github.com/yourusername/MultiThreadedYT-Sync)
+`Project Link` : [https://github.com/NayakSubhransu/MultiThreadedYT-Sync](https://github.com/NayakSubhransu/MultiThreadedYT-Sync/blob/main/MultiThreadedYT-Sync.py)
 
 
 ------------
